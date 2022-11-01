@@ -1,5 +1,9 @@
 "# EBANK-Microservice-Spring-Boot-And-Spring-Cloud" 
 
+
+
+![Capture d’écran 2022-11-01 212157](https://user-images.githubusercontent.com/57298219/199342515-a807fd53-b52d-42f1-8626-29657ab4b5ce.png)
+
 FRANCAIS---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Application de gestion de comptes bacaire en architecture microservice:
@@ -53,6 +57,3 @@ To View Client Management: http://localhost:8901/swagger-ui.html
 To View Bank Operations Management: http://localhost:8902/swagger-ui.html
 
 you can also send your requests to the Gateway for example: http://localhost:8888/CLIENT-SERVICE/client/findAll returns the list of clients
-
-![Capture d’écran 2022-11-01 212157](https://user-images.githubusercontent.com/57298219/199342515-a807fd53-b52d-42f1-8626-29657ab4b5ce.png)
-
